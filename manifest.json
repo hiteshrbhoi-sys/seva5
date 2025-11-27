@@ -1,0 +1,52 @@
+{
+  "name": "Seva - Food Donation Platform",
+  "short_name": "Seva",
+  "id": "/",
+  "description": "Connect donors, volunteers, and beneficiaries for food donations. Share surplus food, volunteer for deliveries, or receive help from your community.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1E3A5F",
+  "theme_color": "#FF6B3D",
+  "orientation": "portrait",
+  "categories": ["food", "lifestyle", "social", "utilities"],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%23FF6B3D' width='192' height='192' rx='48'/%3E%3Ctext x='96' y='130' font-size='100' text-anchor='middle' fill='white'%3E❤️%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect fill='%23FF6B3D' width='512' height='512' rx='128'/%3E%3Ctext x='256' y='350' font-size='280' text-anchor='middle' fill='white'%3E❤️%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%23FF6B3D' width='192' height='192' rx='48'/%3E%3Ctext x='96' y='130' font-size='100' text-anchor='middle' fill='white'%3E❤️%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 960'%3E%3Crect fill='%23E8EFF5' width='540' height='960'/%3E%3Crect fill='%231E3A5F' width='540' height='100'/%3E%3Ccircle cx='50' cy='50' r='20' fill='%23FF6B3D'/%3E%3Ctext x='90' y='60' font-size='24' fill='white' font-weight='bold'%3ESeva%3C/text%3E%3Crect fill='white' x='20' y='120' width='500' height='150' rx='16'/%3E%3Ctext x='270' y='170' font-size='20' text-anchor='middle' fill='%231E3A5F' font-weight='bold'%3E🍽️ Food Donations%3C/text%3E%3Ctext x='270' y='210' font-size='16' text-anchor='middle' fill='%23666'%3EShare food, help community%3C/text%3E%3Crect fill='%23FF6B3D' x='20' y='290' width='500' height='60' rx='30'/%3E%3Ctext x='270' y='330' font-size='20' text-anchor='middle' fill='white' font-weight='bold'%3E+ Create Donation%3C/text%3E%3Crect fill='white' x='20' y='370' width='500' height='120' rx='16'/%3E%3Ctext x='40' y='410' font-size='18' fill='%231E3A5F' font-weight='bold'%3ERice and Dal - 5 kg%3C/text%3E%3Ctext x='40' y='440' font-size='14' fill='%23666'%3E📍 2.5 km away%3C/text%3E%3Ctext x='40' y='465' font-size='14' fill='%234CAF50'%3E🥬 Veg%3C/text%3E%3C/svg%3E",
+      "sizes": "540x960",
+      "type": "image/svg+xml",
+      "form_factor": "narrow",
+      "label": "Home screen showing donations"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1280 720'%3E%3Crect fill='%23E8EFF5' width='1280' height='720'/%3E%3Crect fill='%231E3A5F' width='1280' height='80'/%3E%3Ccircle cx='60' cy='40' r='20' fill='%23FF6B3D'/%3E%3Ctext x='100' y='50' font-size='24' fill='white' font-weight='bold'%3ESeva - Food Donation Platform%3C/text%3E%3Crect fill='white' x='40' y='120' width='580' height='160' rx='16'/%3E%3Ctext x='330' y='170' font-size='22' text-anchor='middle' fill='%231E3A5F' font-weight='bold'%3E🍽️ Active Donations%3C/text%3E%3Ctext x='330' y='220' font-size='16' text-anchor='middle' fill='%23666'%3EConnect donors with beneficiaries%3C/text%3E%3Crect fill='white' x='660' y='120' width='580' height='160' rx='16'/%3E%3Ctext x='950' y='170' font-size='22' text-anchor='middle' fill='%231E3A5F' font-weight='bold'%3E🚚 Nearby Deliveries%3C/text%3E%3Ctext x='950' y='220' font-size='16' text-anchor='middle' fill='%23666'%3EVolunteer for food delivery%3C/text%3E%3Crect fill='%23FF6B3D' x='40' y='320' width='1200' height='60' rx='30'/%3E%3Ctext x='640' y='360' font-size='20' text-anchor='middle' fill='white' font-weight='bold'%3E+ Post New Donation%3C/text%3E%3C/svg%3E",
+      "sizes": "1280x720",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "Desktop view of Seva platform"
+    }
+  ],
+  "shortcuts": []
+}
